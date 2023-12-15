@@ -1,0 +1,15 @@
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\bin\Debug\net6.0\tasks1-4.exe
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\bin\Debug\net6.0\tasks1-4.deps.json
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\bin\Debug\net6.0\tasks1-4.runtimeconfig.json
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\bin\Debug\net6.0\tasks1-4.dll
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\bin\Debug\net6.0\tasks1-4.pdb
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\obj\Debug\net6.0\tasks1-4.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\obj\Debug\net6.0\tasks1-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\obj\Debug\net6.0\tasks1-4.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\obj\Debug\net6.0\tasks1-4.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\obj\Debug\net6.0\tasks1-4.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\obj\Debug\net6.0\tasks1-4.dll
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\obj\Debug\net6.0\refint\tasks1-4.dll
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\obj\Debug\net6.0\tasks1-4.pdb
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\obj\Debug\net6.0\tasks1-4.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\GeekBrains\hw2023.12.14\tasks1-4\obj\Debug\net6.0\ref\tasks1-4.dll
